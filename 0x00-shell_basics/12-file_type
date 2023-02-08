@@ -1,3 +1,2 @@
  #!/bin/bash 
- cd /tmp touch iamfile
-wc -l
+file /tmp/iamfile
