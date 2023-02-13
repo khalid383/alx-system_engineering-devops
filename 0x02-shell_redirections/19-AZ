@@ -1,0 +1,2 @@
+#!/bin/bash
+x.replace ('A' , 'Z').replace('c' ,'e')
